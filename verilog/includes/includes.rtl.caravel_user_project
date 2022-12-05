@@ -1,5 +1,6 @@
 # Caravel user project includes
 -v $(USER_PROJECT_VERILOG)/rtl/user_project_wrapper.v	     
--v $(USER_PROJECT_VERILOG)/rtl/wrapped_vga_clock.v
+-v $(USER_PROJECT_VERILOG)/rtl/wrapped_multiplier_8.v
+-v $(USER_PROJECT_VERILOG)/rtl/multilib_8.v
 
  

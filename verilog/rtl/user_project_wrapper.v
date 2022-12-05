@@ -106,7 +106,7 @@ user_proj_example mprj (
     .irq(user_irq)
 );
 */
-wrapped_vga_clock wrapped_vga_clock (
+wrapped_multiplier_8 wrapped_multiplier_8_1 (
 `ifdef USE_POWER_PINS
 	.vdd(vdd),	// User area 1 1.8V power
 	.vss(vss),	// User area 1 digital ground
@@ -125,3 +125,4 @@ endmodule	// user_project_wrapper
 
 
 `default_nettype wire
+
