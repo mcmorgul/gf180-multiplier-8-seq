@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 10
-timestamp 1670274913
+timestamp 1670279682
 << metal1 >>
 rect 35970 57038 35982 57090
 rect 36034 57087 36046 57090
@@ -6492,11 +6492,11 @@ rect 50612 3108 50660 3164
 rect 50716 3108 50764 3164
 rect 50820 3108 50848 3164
 rect 50528 3076 50848 3108
-use gf180mcu_fd_sc_mcu7t5v0__fillcap_32  FILLER_0_2 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_32  FILLER_0_2 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 1568 0 1 3136
 box -86 -86 3670 870
-use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_0_34 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_0_34 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 5152 0 1 3136
 box 0 -60 112 844
@@ -6604,7 +6604,7 @@ use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_0_489
 timestamp 1669390400
 transform 1 0 56112 0 1 3136
 box 0 -60 112 844
-use gf180mcu_fd_sc_mcu7t5v0__fillcap_16  FILLER_0_492 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_16  FILLER_0_492 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 56448 0 1 3136
 box -86 -86 1878 870
@@ -6612,11 +6612,11 @@ use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_0_508
 timestamp 1669390400
 transform 1 0 58240 0 1 3136
 box 0 -60 112 844
-use gf180mcu_fd_sc_mcu7t5v0__fillcap_64  FILLER_1_2 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_64  FILLER_1_2 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 1568 0 -1 4704
 box -86 -86 7254 870
-use gf180mcu_fd_sc_mcu7t5v0__fillcap_4  FILLER_1_66 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_4  FILLER_1_66 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 8736 0 -1 4704
 box -86 -86 534 870
@@ -6696,11 +6696,11 @@ use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_1_496
 timestamp 1669390400
 transform 1 0 56896 0 -1 4704
 box 0 -60 112 844
-use gf180mcu_fd_sc_mcu7t5v0__fillcap_8  FILLER_1_499 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_8  FILLER_1_499 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 57232 0 -1 4704
 box -86 -86 982 870
-use gf180mcu_fd_sc_mcu7t5v0__fill_2  FILLER_1_507 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__fill_2  FILLER_1_507 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 58128 0 -1 4704
 box 0 -60 224 844
@@ -13224,7 +13224,7 @@ use gf180mcu_fd_sc_mcu7t5v0__fill_1  FILLER_67_508
 timestamp 1669390400
 transform 1 0 58240 0 -1 56448
 box 0 -60 112 844
-use gf180mcu_fd_sc_mcu7t5v0__endcap  PHY_0 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__endcap  PHY_0 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 1344 0 1 3136
 box -86 -86 310 870
@@ -13768,7 +13768,7 @@ use gf180mcu_fd_sc_mcu7t5v0__endcap  PHY_135
 timestamp 1669390400
 transform -1 0 58576 0 -1 56448
 box -86 -86 310 870
-use gf180mcu_fd_sc_mcu7t5v0__filltie  TAP_136 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__filltie  TAP_136 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 5264 0 1 3136
 box -86 -86 310 870
@@ -15728,7 +15728,7 @@ use gf180mcu_fd_sc_mcu7t5v0__filltie  TAP_625
 timestamp 1669390400
 transform 1 0 56224 0 -1 56448
 box -86 -86 310 870
-use gf180mcu_fd_sc_mcu7t5v0__tiel  wrapped_multiplier_8_1 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__tiel  wrapped_multiplier_8_1 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 4704 0 -1 56448
 box -86 -86 534 870
@@ -15968,7 +15968,7 @@ use gf180mcu_fd_sc_mcu7t5v0__tiel  wrapped_multiplier_8_60
 timestamp 1669390400
 transform -1 0 55776 0 1 54880
 box -86 -86 534 870
-use gf180mcu_fd_sc_mcu7t5v0__tieh  wrapped_multiplier_8_61 GF180PDK/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+use gf180mcu_fd_sc_mcu7t5v0__tieh  wrapped_multiplier_8_61 $PDK_ROOT/gf180mcuC/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
 timestamp 1669390400
 transform 1 0 12544 0 -1 56448
 box -86 -86 534 870

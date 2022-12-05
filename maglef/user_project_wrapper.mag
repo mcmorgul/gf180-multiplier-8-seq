@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 5
-timestamp 1670275088
+timestamp 1670280053
 << obsm1 >>
 rect 118172 170538 146788 205281
 << metal2 >>
@@ -2204,7 +2204,7 @@ string FIXED_BBOX 0 0 298020 298020
 string LEFclass BLOCK
 string LEFview TRUE
 string GDS_END 3141716
-string GDS_FILE /home/htf6ry/gf180-ceylan/openlane/user_project_wrapper/runs/22_12_05_16_17/results/signoff/user_project_wrapper.magic.gds
+string GDS_FILE /home/mm4uz/asic/gf180-shuttle-0/submission/gf180-ceylanM/openlane/user_project_wrapper/runs/22_12_05_17_40/results/signoff/user_project_wrapper.magic.gds
 string GDS_START 420348
 << end >>
 

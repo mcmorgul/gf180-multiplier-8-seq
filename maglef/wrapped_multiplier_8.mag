@@ -1,7 +1,7 @@
 magic
 tech gf180mcuC
 magscale 1 5
-timestamp 1670274913
+timestamp 1670279682
 << obsm1 >>
 rect 672 1538 29288 28545
 << metal2 >>
@@ -491,7 +491,7 @@ string FIXED_BBOX 0 0 30000 30000
 string LEFclass BLOCK
 string LEFview TRUE
 string GDS_END 420296
-string GDS_FILE /home/htf6ry/gf180-ceylan/openlane/wrapped_multiplier_8/runs/22_12_05_16_14/results/signoff/wrapped_multiplier_8.magic.gds
+string GDS_FILE /home/mm4uz/asic/gf180-shuttle-0/submission/gf180-ceylanM/openlane/wrapped_multiplier_8/runs/22_12_05_17_33/results/signoff/wrapped_multiplier_8.magic.gds
 string GDS_START 50130
 << end >>
 
